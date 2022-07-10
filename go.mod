@@ -1,3 +1,3 @@
-module task5.1
+module main
 
 go 1.17
