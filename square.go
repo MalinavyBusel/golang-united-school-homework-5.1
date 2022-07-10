@@ -1,4 +1,4 @@
-package main
+package square
 
 type Point struct {
 	x, y int
