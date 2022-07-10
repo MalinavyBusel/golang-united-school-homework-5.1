@@ -1,4 +1,4 @@
-package task5_1
+package main
 
 type Point struct {
 	x, y int
